@@ -1,2 +1,2 @@
 # mobile-security
-Books, white papers and may some projects of mobile security
+Books, white papers, tools and projects of mobile security
