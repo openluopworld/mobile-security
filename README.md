@@ -22,3 +22,5 @@
 
 ### APP Sign
 [About Code Signing](https://developer.apple.com/library/content/documentation/Security/Conceptual/CodeSigningGuide/Introduction/Introduction.html)
+
+[What is app signing](https://help.apple.com/xcode/mac/current/#/dev3a05256b8)
