@@ -24,3 +24,5 @@
 [About Code Signing](https://developer.apple.com/library/content/documentation/Security/Conceptual/CodeSigningGuide/Introduction/Introduction.html)
 
 [What is app signing](https://help.apple.com/xcode/mac/current/#/dev3a05256b8)
+
+[iOS 中 HTTPS 证书验证浅析](https://mp.weixin.qq.com/s/-fLLTtip509K6pNOTkflPQ)
